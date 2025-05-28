@@ -1,0 +1,69 @@
+@font-face {
+  font-family: primary;
+  src: url('./Fonts/primary.ttf');
+}
+@font-face {
+  font-family: secondary;
+  src: url('./Fonts/secondary.ttf');
+}
+
+body{
+  background-image: url("./assets/bg.jpg");
+  background-size: cover;
+  font-family: secondary;
+}
+.square{
+  height: 140px;
+  width: 140px;
+  border-radius: 20%;
+  background-color: aqua;
+  color: #000;
+  font-size: xx-large;
+  font-weight: bolder;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: top; /* prevent baseline alignment issues */
+  box-sizing: border-box; /* safer sizing */
+  margin: 2px;
+}
+.square:hover{
+  background-color: aquamarine;
+}
+.board-row {
+  display: flex;
+}
+
+h1{
+  color: rgb(1, 245, 254);
+  font-family: primary;
+}
+.game{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 410px;
+  margin-top: 250px;
+}
+.top-left-message {
+  position: absolute;
+  top: 130px;
+  left: 410px;
+  align-self: center;
+  color: rgb(0, 0, 0);
+  font-size: xx-large;
+  font-weight: bolder;
+  
+}
+.moves{
+  background-color: rgb(0, 162, 255);
+  font-size: large;
+  margin: 4px;
+  padding: 8px;
+  border-radius: 40px;
+}
+.moves:hover{
+  background-color: rgb(9, 255, 255);
+  cursor: pointer;
+}
