@@ -10,8 +10,8 @@ A simple yet fun **Tic-Tac-Toe** game built using **React.js**, where two player
 
 ### 📸 Preview
 
-![Tic Tac Toe Preview](https://user-images.githubusercontent.com/000000/placeholder.png)
-*(Add your game screenshot or screen recording link here)*
+![Tic Tac Toe Preview](![alt text](image.png))
+
 
 ---
 
