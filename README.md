@@ -1,7 +1,3 @@
-Sure! Here's a well-structured `README.md` file for your **React Tic-Tac-Toe Game**, perfect for GitHub or any project showcase:
-
----
-
 ## 🕹️ Tic-Tac-Toe Game (React)
 
 A simple yet fun **Tic-Tac-Toe** game built using **React.js**, where two players (X and O) take turns. It includes interactive UI, winner detection, game history navigation, and dynamic messages after each move!
