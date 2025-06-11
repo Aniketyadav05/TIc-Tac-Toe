@@ -115,12 +115,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Thanks to [React Official Docs](https://reactjs.org/tutorial/tutorial.html) for inspiration and tutorial.
 
----
 
-Let me know if you want me to customize this based on:
-
-* Your GitHub username / repo
-* Your screenshot
-* Deployment link (like Vercel or Netlify)
-
-I'll update it for you instantly.
